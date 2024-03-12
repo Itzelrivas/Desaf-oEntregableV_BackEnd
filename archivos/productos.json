@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Vestido azul marino",
+    "description": "Vestido color azul marino con el logo de la marca en color blanco",
+    "code": "Va_MK_01",
+    "price": 899,
+    "status": true,
+    "stock": 1,
+    "category": "vestido",
+    "thumbnail": [
+      "/VestidoAzul_MK.webp"
+    ],
+    "id": 8940
+  },
+  {
+    "title": "Vestido rojo",
+    "description": "Vestido color rojo con piedritas plateadas",
+    "code": "Vr_TH_03",
+    "price": 234,
+    "status": true,
+    "stock": 3,
+    "category": "vestido",
+    "thumbnail": [
+      "/VestidoRojo_TH.webp"
+    ],
+    "id": 1003
+  },
+  {
+    "title": "Playera azul",
+    "description": "Playera tipo polo azul",
+    "code": "Pa_TH_01",
+    "price": 580,
+    "status": true,
+    "stock": 1,
+    "category": "playera",
+    "thumbnail": [
+      "/PlayeraPoloAzul_TH.jpeg"
+    ],
+    "id": 6785
+  },
+  {
+    "title": "Plantalon morado",
+    "description": "Pantalon de vestir color morado oscuro",
+    "code": "Pm_CK_02",
+    "price": 480,
+    "status": true,
+    "stock": 2,
+    "category": "pantalon",
+    "thumbnail": [
+      "/PantalonMorado_CK.webp",
+      "/PantalonLila_CK.jpeg"
+    ],
+    "id": 8940
+  },
+  {
+    "title": "Conjunto beige",
+    "description": "Pantalon con chaleco de color beige",
+    "code": "Cb_MK_01",
+    "price": 980,
+    "status": true,
+    "stock": 1,
+    "category": "conjuntos",
+    "thumbnail": [
+      "/ConjuntoBeige_MK.jpeg"
+    ],
+    "id": 9058
+  },
+  {
+    "id": 5382,
+    "title": "Crossbody negra",
+    "description": "Bolsa cruzada negra con correa",
+    "code": "BN_SM_02",
+    "price": 1500,
+    "stock": 2,
+    "category": "bolsas",
+    "thumbnail": [
+      "/1708569619747-CrossBodyNegra_SM.avif"
+    ],
+    "status": true
+  },
+  {
+    "id": 9076,
+    "title": "Bolsa color negro",
+    "description": "Bolsa de mano negra de tamaño grande",
+    "code": "BN_NW_01",
+    "price": 2500,
+    "stock": 1,
+    "category": "bolsas",
+    "thumbnail": [
+      "/1710210831589-BolsaNegra_NW.webp"
+    ],
+    "status": true,
+    "_id": "65efbf0f3022429f6e0b38cd",
+    "__v": 0
+  }
+]
